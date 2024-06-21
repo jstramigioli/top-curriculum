@@ -69,7 +69,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 ### Additional resources
 
-This section contains helpful links to related content. It isn't required, so consider it supplemental.
+This section contains helpful links to related content. It isn't required, so consider it supplemental. Aguante bocaaaa.
 
 - Seth Robertson's [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 - Learn about [Git Branching from Peter Cottle](http://pcottle.github.io/learnGitBranching/) using his interactive branching tutorial.
